@@ -1,0 +1,1 @@
+cherry pick stands for applying some commit from one branch into another branch
